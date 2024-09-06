@@ -4,3 +4,18 @@ export const divisao = (a, b) => {
     }
     return a/b;
 }
+
+export const cursos = ["Eletrotecnica", "Informatica para Web", "Mecanica Automotiva", "Soldagem", "Moda", "Torneiraria"];
+
+export const influencer = {
+    nome: "Pedro Orochi",
+    idade: 24,
+    endereco: {
+        cidade: "Maringá",
+        estado: "Paraná"
+    },
+    seguidores: 6360000,
+    mitinho: true
+}
+
+export const maxAlunos = 30;
